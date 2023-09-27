@@ -1,3 +1,8 @@
+#Desenvolver um programa em Python que solicite a digiteção da idade e o sexo de 10 pessoas, calcule e imprima
+#Idade media das mulheres
+#Idade media dos homens
+#Idade media do grupo
+#A maior idade do grupo
 import os 
 listageral = []
 listamulheres = []
